@@ -68,7 +68,7 @@ rm /var/www/html/index.html
 ```
 Now install/copy my respetory
 ```
-git clone git clone https://github.com/NE4kuma/webformular-with-sql-integration
+git clone git clone https://github.com/Ne4ec/webformular-with-sql-integration
 ```
 Move the important files into `/var/www/html` 
 ```
@@ -125,4 +125,4 @@ MariaDB [formular_db]> select * from user_data;
 `````
 ## Conculution
 Hopefully, everything is working. If not, please leave a comment in the Issues tab. Thank you for paying attention, and have a nice day :)<br>
-~ NeSec
+~ Ne4ec
