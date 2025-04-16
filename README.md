@@ -68,7 +68,7 @@ rm /var/www/html/index.html
 ```
 Now install/copy my respetory
 ```
-git clone git clone https://github.com/Ne4ec/WebformularWithSqlIntegration
+git clone https://github.com/Ne4ec/WebformularWithSqlIntegration
 ```
 Move the important files into `/var/www/html` 
 ```
