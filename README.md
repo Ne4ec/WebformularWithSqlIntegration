@@ -68,16 +68,16 @@ rm /var/www/html/index.html
 ```
 Now install/copy my respetory
 ```
-git clone git clone https://github.com/Ne4ec/webformular-with-sql-integration
+git clone git clone https://github.com/Ne4ec/WebformularWithSqlIntegration
 ```
 Move the important files into `/var/www/html` 
 ```
-mv webformular-with-sql-integration/submit.php webformular-with-sql-integration/index.html .
+mv WebformularWithSqlIntegration/submit.php WebformularWithSqlIntegration/index.html .
 ```
 
 **(Optional)** If you want to remove the directory (and README.md) file from the cloned repository:
 ```
-rm -rf webformular-with-sql-integration/
+rm -rf WebformularWithSqlIntegration
 ```
 At least give the right permissen:
 ```
